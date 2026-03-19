@@ -1,0 +1,12 @@
+geopy
+sentence_transformers
+langchain
+langchain-openai
+langgraph
+dotenv
+chromadb
+langchain_huggingface
+langchain-text-splitters
+langchain-community
+playwright
+unstructured
